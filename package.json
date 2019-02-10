@@ -1,0 +1,12 @@
+{
+  "name": "string-kata",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:divanvisagie/string-kata.git",
+  "author": "Divan Visagie <me@dvisagie.com>",
+  "private": true,
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
