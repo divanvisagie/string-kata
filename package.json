@@ -5,6 +5,9 @@
   "repository": "git@github.com:divanvisagie/string-kata.git",
   "author": "Divan Visagie <me@dvisagie.com>",
   "private": true,
+  "scripts": {
+    "test": "mocha --watch"
+  },
   "dependencies": {
     "chai": "^4.2.0",
     "mocha": "^5.2.0"
